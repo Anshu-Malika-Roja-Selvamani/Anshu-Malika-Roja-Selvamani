@@ -34,7 +34,8 @@ I'm also working on an innovative AI based web application 🌐 designed to assi
 ### Chatbot
 - 🤖 Developing a conversational AI chatbot using deep learning.
 - 💬 Enhancing user experiences through natural language understanding.
-
+  
+This is just the beginning of my journey, and I'm excited to continue exploring the endless possibilities of AI and making a positive impact on the world.
 ---
 
 <h2>📚 Skills</h2>
