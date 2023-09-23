@@ -64,10 +64,10 @@
 
 <h2>🌐 Find Me Online</h2>
 
-- **LinkedIn**: [Your LinkedIn Profile](https://in.linkedin.com/in/anshu-malika-roja-selvamani-638896227)
-- **Instagram**: [Your Instagram Profile](https://www.instagram.com/anshumalikarojaselvamanioffcl/?hl=en)
-- **Website**: [Your Website](https://www.your-website.com)
-- **Twitter**: [Your Twitter Profile](https://www.twitter.com/your-twitter-profile)
+- **LinkedIn**: (https://in.linkedin.com/in/anshu-malika-roja-selvamani-638896227)
+- **Instagram**: (https://www.instagram.com/anshumalikarojaselvamanioffcl/?hl=en)
+- **Website**: (https://www.your-website.com)
+- **Twitter**: (https://www.twitter.com/your-twitter-profile)
 
 ---
 
